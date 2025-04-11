@@ -12,7 +12,7 @@ Welcome to the **AIMS** project! This repository contains the frontend of a Lara
 
 ### 💻 Desktop View
 
-![Desktop Screenshot](public/images/desktop-view.png)
+![Desktop Screenshot](public/images/Desktop-view.png)
 
 ### 📱 Mobile View
 
